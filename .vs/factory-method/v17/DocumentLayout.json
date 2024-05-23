@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sandbox\\design-patterns\\creational-patterns\\factory-method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0931C5D6-28F3-4265-805C-ED5CCE790323}|factory-method\\factory-method.csproj|c:\\sandbox\\design-patterns\\creational-patterns\\factory-method\\factory-method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0931C5D6-28F3-4265-805C-ED5CCE790323}|factory-method\\factory-method.csproj|solutionrelative:factory-method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0931C5D6-28F3-4265-805C-ED5CCE790323}|factory-method\\factory-method.csproj|c:\\sandbox\\design-patterns\\creational-patterns\\factory-method\\factory-method\\ipolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0931C5D6-28F3-4265-805C-ED5CCE790323}|factory-method\\factory-method.csproj|solutionrelative:factory-method\\ipolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 791,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sandbox\\design-patterns\\creational-patterns\\factory-method\\factory-method\\Program.cs",
+              "RelativeDocumentMoniker": "factory-method\\Program.cs",
+              "ToolTip": "C:\\Sandbox\\design-patterns\\creational-patterns\\factory-method\\factory-method\\Program.cs",
+              "RelativeToolTip": "factory-method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:41:25.456Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPolicy.cs",
+              "DocumentMoniker": "C:\\Sandbox\\design-patterns\\creational-patterns\\factory-method\\factory-method\\IPolicy.cs",
+              "RelativeDocumentMoniker": "factory-method\\IPolicy.cs",
+              "ToolTip": "C:\\Sandbox\\design-patterns\\creational-patterns\\factory-method\\factory-method\\IPolicy.cs",
+              "RelativeToolTip": "factory-method\\IPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:42:19.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
